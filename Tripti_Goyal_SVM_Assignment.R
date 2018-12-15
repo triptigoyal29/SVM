@@ -22,7 +22,7 @@
 ###########################################################################################
 
 ## Loading necessary libraries
-library(caret)    ## For confusion matrix
+library(caret)   
 library(kernlab)  
 library(dplyr)
 library(readr)
