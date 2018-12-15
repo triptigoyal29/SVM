@@ -22,8 +22,8 @@
 ###########################################################################################
 
 ## Loading necessary libraries
-library(caret)
-library(kernlab)
+library(caret)    ## For confusion matrix
+library(kernlab)  
 library(dplyr)
 library(readr)
 library(ggplot2)
